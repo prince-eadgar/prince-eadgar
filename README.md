@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @prince_eadgar
-- 👀 I’m interested in Software and Webprogramming.
-- 🌱 I’m currently learning Webprogramming.
-- 💞️ I’m looking to collaborate on Webprogramming.
-- 📫 How to reach me email:edgaredwin27@yahoo.com 
+- 👋 Hi, I’m Edgar Edwin (@eadgar.sr)
+- 👀 I’m interested in Software and Web development
+- 🌱 I’m currently learning well Web Development
+- 💞️ I’m looking to collaborate on Web & Software developers
+- 📫 How to reach me email:tech.eadgar@gmail.com
 
 <!---
 prince-eadgar/prince-eadgar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
